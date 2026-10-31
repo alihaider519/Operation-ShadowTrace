@@ -1,0 +1,37 @@
+Operation ShadowTrace
+# Purple Team Attack Simulation & Detection Lab
+
+* Author:  Ali Haider
+
+# Overview
+A hands-on cybersecurity lab combining controlled attack simulations with defensive threat detection using Kali Linux, Ubuntu, Suricata IDS and Wazuh SIEM.
+
+# Objectives
+- Simulate controlled cyberattacks.
+- Detect suspicious network activity.
+- Integrate Suricata with Wazuh.
+- Analyze security alerts.
+- Map activities to MITRE ATT&CK.
+
+# Tools
+- Kali Linux
+- Ubuntu Linux
+- Suricata IDS
+- Wazuh SIEM
+- MITRE ATT&CK
+
+#  Detection Scenarios
+1. Nmap SYN Scan
+2. SSH Brute-Force Simulation
+3. ICMP Reconnaissance
+4. TCP Connect Scan
+5. HTTP Request Detection
+6. Simulated C2 Beacon Activity
+
+#  Key Skills
+SOC Monitoring | SIEM | IDS | Linux | Network Security | Threat Detection | Alert Analysis
+
+#  Safety
+All simulations were performed in a controlled virtual lab for educational purposes.
+
+* Simulate. Detect. Analyze. Defend.* 
